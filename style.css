@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(138, 132, 132);
+}
+.heading{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+#usr{
+    padding: 10px;
+    width: 30%;
+   margin-top: 150px;
+   margin-left: 500px;
+}
+.col-sm-10{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.enter{
+    padding: 10px 80px 10px 80px;
+    border-radius: 10px;
+}
+.col-sm-8{
+    text-align: center;
+}
+.btn-primary{
+    margin-top: 60px;
+
+}
